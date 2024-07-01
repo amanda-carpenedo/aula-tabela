@@ -1,0 +1,19 @@
+.tabela{
+    border:solid 3px white;
+    color: white;
+}
+
+.tabela-moda {
+    background-color: #BB86FC;
+}
+
+.tabela-moda-produtos{
+    background-color: #424250;
+}
+
+.tabela-casa{
+   background-color:#00C4B4;
+}
+.tabela-casa-produtos{
+    background-color: #424250;
+ }
